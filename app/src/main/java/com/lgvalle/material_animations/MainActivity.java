@@ -12,6 +12,10 @@ import android.view.Gravity;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * tianjiazhushi
+ * @Author liao
+ */
 public class MainActivity extends AppCompatActivity {
     private List<Sample> samples;
 
